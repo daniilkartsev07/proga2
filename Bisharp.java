@@ -3,7 +3,7 @@ package info.pokemons;
 import ru.ifmo.se.pokemon.*;
 import info.moves.*;
 
-public class Bisharp extends Pokemon {
+public class Bisharp extends Pawniard {
     public Bisharp(String name, int level) {
         super(name, level);
         setStats(65, 125, 100, 60, 70, 70);
